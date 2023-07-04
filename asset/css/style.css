@@ -1,0 +1,39 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.rightmenu a{
+    text-decoration: none;
+}
+.leftmenu a{
+    text-decoration: none;
+}
+
+
+
+.parallelogram{
+        width: 200px;
+        height: 50px;
+        transform: skew(-20deg);
+        background: white;
+}
+
+ ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+.rectangle{
+    width: 100px;
+    height: 30px;
+    background: white;
+    border: 1px solid grey;
+    position: absolute;
+    top: 30px;
+    left: -15px;
+  }
+
+  .news .row .card{
+    height: 600px;
+  }
